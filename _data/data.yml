@@ -279,7 +279,7 @@ publication:
   show: true
   order: 1
   title: Publications
-  description: 
+  description: Publications
   items:
     - title: Learned Approximate Computing: Algorithm Hardware Co-Optimization
       authors: E. Glukhov, T. Li, V. Gupta and P. Gupta
