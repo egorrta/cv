@@ -285,7 +285,7 @@ publication:
       authors: E. Glukhov, T. Li, V. Gupta and P. Gupta
       conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024
       link: 'https://nanocad.ee.ucla.edu/wp-content/papercite-data/pdf/j79.pdf'
-      code: '#'
+      code: 'https://nanocad.ee.ucla.edu/wp-content/papercite-data/pdf/j79.pdf'
 
 # award:
 #   show: true
