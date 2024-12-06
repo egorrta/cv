@@ -21,7 +21,7 @@
         {%- if item.title %}
         <div class="publication-title">
           {%- if item.link %}
-          <a href="{{ item.link }}" target="_blank" style="color: blue; text-decoration: underline;">{{ item.title }}</a>
+          <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
           {%- else %}
           <span>{{ item.title }}</span>
           {%- endif %}
@@ -41,7 +41,7 @@
 
         {%- if item.code %}
         <div class="code-link">
-          <a href="{{ item.code }}" target="_blank">Code</a>
+          <a href="{{ item.code }}" target="_blank" style="color: blue; text-decoration: underline;">Code</a>
         </div>
         {%- endif %}
         
