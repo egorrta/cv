@@ -38,6 +38,13 @@
           <span>{{ item.conference }}</span>
         </div>
         {%- endif %}
+
+        {%- if item.code %}
+        <div class="code-link">
+          <a href="{{ item.code }}" target="_blank">Code</a>
+        </div>
+        {%- endif %}
+        
         {%- endif %}
 
       </div>
